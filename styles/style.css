@@ -279,7 +279,7 @@ nav li a:hover{
 }
 .carte-hebergement p 
 {
-    font-size: 16px;
+    font-size: 14px;
     padding-left: 12px;
     margin: 6px 0;
 }
@@ -296,7 +296,7 @@ nav li a:hover{
 {
    width: 236px;
   height: 120px;
-  border-radius: 20px 20px 0 0;
+  border-radius: 10px 10px 0 0;
   object-fit: cover;
 	
     }
@@ -365,7 +365,7 @@ nav li a:hover{
 }
 .cartepopulaire p 
 {
-    font-size: 16px;
+    font-size: 14px;
     padding-left: 12px;
    
 }
