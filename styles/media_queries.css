@@ -16,8 +16,6 @@
 	}
 	
 }
-
-
 @media screen and (max-width: 1200px) {
 		
  .divs-footer
@@ -31,8 +29,6 @@
         margin-left: 10px;
         padding-bottom: 0;
     } 
-	
-	
 	
     .activities h2 
     {
@@ -71,7 +67,7 @@
   } 
  }
 
-/* Mobile version */
+/* Version Mobile */
 @media only screen and (max-width: 600px){
 
 	.bloc-hebergement{
@@ -79,8 +75,6 @@
 		margin-right: 0px;
 		
 	}
-	
-	
 	
 	header{
         margin: 0;
