@@ -37,7 +37,7 @@ a {
 	align-items: center;
 }
 
-/* NavBar */
+/* -----------------NavBar--------------------------------------------- */
 /* Header */
 
 header{
@@ -89,7 +89,7 @@ nav li a:hover{
     padding-top: 38px;
 }
 
-/*--                Entetes--*/
+/*--------------------------Entetes--------------------------------*/
 .grand-titre {
   font-size: 22px;
   margin: 10px 0;
@@ -98,7 +98,7 @@ nav li a:hover{
 .sous-titre {
   margin: 10px 0px;
 }
-/*--Recherche et Icones                      --*/
+/*-------------------------Recherche et Icones---------------------*/
 .div-recherche {
   display: flex;
   flex-direction: row;
@@ -153,7 +153,7 @@ nav li a:hover{
   display: none;
 }
 /* Les filtres */
-/*-------------------- Les filtres ---------------------------*/
+/*--- Les filtres ------*/
 .composants-filtres h3 {
   font-size: 24px;
   display: inline;
@@ -205,6 +205,8 @@ nav li a:hover{
 
 /*---Hébergements à Marseille----*/
                    
+
+
 /*-- Positionnement des blocs Hébergement populaire ----*/
 .hebergement-populaire{
 	display: flex;
@@ -279,7 +281,7 @@ nav li a:hover{
 }
 .carte-hebergement p 
 {
-    font-size: 14px;
+    font-size: 16px;
     padding-left: 12px;
     margin: 6px 0;
 }
@@ -296,7 +298,7 @@ nav li a:hover{
 {
    width: 236px;
   height: 120px;
-  border-radius: 10px 10px 0 0;
+  border-radius: 20px 20px 0 0;
   object-fit: cover;
 	
     }
@@ -365,7 +367,7 @@ nav li a:hover{
 }
 .cartepopulaire p 
 {
-    font-size: 14px;
+    font-size: 16px;
     padding-left: 12px;
    
 }
@@ -397,7 +399,9 @@ nav li a:hover{
 }
 .activites-divs
 {
-	display:flex;    
+	display:flex;
+	
+    
 }
 
 .images-titres{
